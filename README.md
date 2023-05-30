@@ -7,7 +7,6 @@
     alt="Edgar Muniz Berlinck's Dev Card"
   />
 </a>
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Sebratec
 - 📫 How to reach me: http://edgarberlinck.github.io
