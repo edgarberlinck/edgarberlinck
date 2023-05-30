@@ -8,5 +8,5 @@
   />
 </a>
 
-
-> More info is available at http://edgarberlinck.github.io
+### How to get in touch?
+Visit my personal website at http://edgarberlinck.github.io
