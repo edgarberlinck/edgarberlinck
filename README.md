@@ -7,3 +7,5 @@
     alt="Edgar Muniz Berlinck's Dev Card"
   />
 </a>
+
+> More info is available at http://edgarberlinck.github.io
