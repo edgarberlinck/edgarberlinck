@@ -7,7 +7,3 @@
     alt="Edgar Muniz Berlinck's Dev Card"
   />
 </a>
-
-- 🔭 I’m currently working on Sebratec
-- 📫 How to reach me: http://edgarberlinck.github.io
-- ⚡ Fun fact: ...
