@@ -5,6 +5,7 @@ I’m a full-stack developer with a passion for building great software. I start
 I enjoy writing clean, maintainable code and always look for elegant solutions to complex problems. Open source and craftsmanship are at the heart of what I do.
 
 🚀 Tech I Love
+
 	•	Back-end: Node.js, Ruby, Express, Rails
 	•	Front-end: JavaScript, TypeScript, React, Vue
 	•	Databases: PostgreSQL, MongoDB, Redis
