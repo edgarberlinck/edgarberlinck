@@ -15,6 +15,6 @@ I enjoy writing clean, maintainable code and always look for elegant solutions t
 
 Not a big fan of social media, but if you want to talk about code, software, or anything interesting, you can find me on Discord: @edgarberlinck.
 
-Open Agenda: [schedule a call here](https://event-me-now.vercel.app/book/edgarberlinck)
+Open Agenda: [schedule a call here](https://events.bemagic.online/book/edgarberlinck)
 
 Looking forward to connecting with fellow developers!
